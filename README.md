@@ -33,3 +33,11 @@ yarn serve
 - CSS3
 - Vue
 - Bootstrap
+
+## Images
+
+1. Write a post
+![Write a post](https://raw.githubusercontent.com/andreipintilie/vue-blog-app/master/src/assets/Img1.PNG)
+
+2. What will the posts look like:
+![Post layout](https://raw.githubusercontent.com/andreipintilie/vue-blog-app/master/src/assets/Img2.PNG)
