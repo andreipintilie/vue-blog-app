@@ -29,8 +29,6 @@ yarn serve
 4. The tag input is a bootstrap component.
 
 ## Used Technologies
-- HTML5
-- CSS3
 - Vue
 - Bootstrap
 
